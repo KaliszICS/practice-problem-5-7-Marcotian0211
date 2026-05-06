@@ -1,5 +1,5 @@
 /**
-	* Lesson: Autoboxing and unboxing
+	* Lesson: Autoboxing and unboxing - ArrayLists
 	* Author: Mr. Kalisz
 	* Date Created: May 10, 2023
 	* Date Last Modified: May 10, 2023
